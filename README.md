@@ -2,19 +2,20 @@
 
   *Proyecto del programa de formación ORACLE NEX EDUCATION en conjunto con ALURA LATAM*
 
-Se crea un programa a escala reducida con la cual se elabora una lista de supermercado mencionando el departamento y lo que se irá a comprar
-dependiendo de lo que agregues a la misma.
+Se crea un programa a escala reducida con la cual se elabora una lista de supermercado en el cual, se puede ver la lista de compras y decidir si se agregan más productos, se eliminan los actuales
+o si no se desean agregar más.
 
 ---
 
 ## Marco Teórico:
 
-¿Sabes cuando vas al supermercado con una lista de compras y terminas yendo y volviendo por los mismos pasillos hasta completar la lista?
-Necesitas una manzana y vas al área de frutas. El siguiente ítem es una leche y te diriges a los lácteos. Pero luego anotaste una pera, y necesitas regresar de nuevo al área de frutas. 
-¡Después de resolver el desafío de hoy, con certeza no harás más eso!
-Al igual que nuestra lista de compras, es muy común que los programas trabajen con listas de string, números y objetos.
-Piensa en cada catálogo de e-commerce que has visto, en la lista de eventos de tu Google Calendar,
-o incluso en tu bandeja de entrada de correos electrónicos. Todos estos sitios utilizan listas para mostrar información de una manera simple y fácil de entender.
+Deberás crear la opción de eliminar algún elemento de la lista, que se mostrará junto con la pregunta: “¿deseas añadir un alimento a la lista de compras?”.
+A partir de ahí, si la persona elige esa opción, el programa imprimirá los elementos presentes en la lista actual, y la persona deberá escribir cuál de ellos desea eliminar.
+Después de eso, el programa eliminará el elemento de la lista e imprimirá la confirmación de que el elemento realmente ya no está allí.
+Finalmente, el programa volverá al ciclo inicial de preguntas.
+Si, al intentar eliminar el elemento, este no se encuentra en la lista, deberás mostrar un mensaje advirtiendo de ello.
+Por ejemplo: “¡No fue posible encontrar el elemento en la lista!”.
+Recuerda que la opción de eliminar un elemento solo deberá estar disponible a partir del momento en que exista al menos un elemento en la lista de compras.
 
 ---
 
