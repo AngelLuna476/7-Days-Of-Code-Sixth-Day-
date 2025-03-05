@@ -21,11 +21,19 @@ Recuerda que la opción de eliminar un elemento solo deberá estar disponible a 
 
 ## Requisitos:
 
-Este proyecto usa únicamente **JavaScript**.  
-Se puede probar directamente en tu navegador.
+Este proyecto usa únicamente **JavaScript**, **HTML** y **CSS**.  
+Se puede probarlo directamente en tu navegador solo usando el codigo .js
 
 ---
 
+## Instrucciones:
+
+Las instrucciones se encuentran al entrar a la página web
+
+   ---
+
 ## Tecnologías Usadas 💻
 
-- **[JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)**.
+- **[HTML5](https://developer.mozilla.org/es/docs/Web/HTML)**: Estructura básica de la página.
+- **[CSS3](https://developer.mozilla.org/es/docs/Web/CSS)**: Estilos para una interfaz sencilla.
+- **[JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)**: Lógica para gestionar la lista de amigos y realizar el sorteo aleatorio.
