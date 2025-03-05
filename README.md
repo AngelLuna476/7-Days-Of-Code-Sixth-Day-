@@ -3,7 +3,7 @@
   *Proyecto del programa de formación ORACLE NEX EDUCATION en conjunto con ALURA LATAM*
 
 Se crea un programa a escala reducida con la cual se elabora una lista de supermercado en el cual, se puede ver la lista de compras y decidir si se agregan más productos, se eliminan los actuales
-o si no se desean agregar más.
+o si no se desean agregar más. (Se puede modificar a necesidad, es mi primer diseño con mi imaginación >.<)
 
 ---
 
