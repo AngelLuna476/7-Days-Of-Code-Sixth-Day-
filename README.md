@@ -1,4 +1,4 @@
-<h1 align="center">#7_Days_Of_Code_(5/7)</h1>
+<h1 align="center">#7_Days_Of_Code_(6/7)</h1>
 
   *Proyecto del programa de formación ORACLE NEX EDUCATION en conjunto con ALURA LATAM*
 
