@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es-mx">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;400;700;900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+    <title>LISTA DE COMPRAS</title>
+</head>
+
+<body class="body">
+    <header class="header">
+        <h1 class="header_titulo">LISTA DE COMPRAS</h1>
+    <main class="main_lista">
+        <p class="main_lista_texto">Para agregar productos, favor de pulsar el incono de +, para eliminar el de -, y para vizualizar lo añadido en el incono de lista.
+        Se muestran las categorias de Frutas, Lacteos, Dulces, Congelados, Cereales, Carnes y lo que se ingreso.
+        </p>
+        <button class= "main_lista_titulo_agregar" onclick="agregarComida()"><img src="agregarProducto.png" alt="Ícono para agregar" class="agregarProducto"></button>
+        <button class= "main_lista_titulo_eliminar" onclick="eliminarComida()"><img src="eliminarProducto.png" alt="Ícono para eliminar" class="eliminarProducto"></button>
+        <button class= "main_lista_titulo_mostrar" onclick="mostrarListaDeCompras()"><img src="mostrarLista.jpg" alt="Ícono para mostrar lista" class="mostrarLista"></button>
+        <div id="lista-compras" class="lista-compras"></div>
+    </main>
+    <script src="app.js"></script>
+</body>
+<footer class="footer">
+    PROGRAMA ORACLE NEXT EDUCATION (ONE)/ALURA LATAM;
+    PROYECTO DE LA CAMPAÑA #7_DAYS_OF_CODE_(6 de 7)
+</footer>
+</html>
